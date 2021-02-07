@@ -5,16 +5,16 @@
 ##### The web application will have the following capabilities
 ###### 1. Agile Demand Forecasting
 	Continuously refine your forecast with new data?
-###### Upstream Supply Chain
+###### 2. Upstream Supply Chain
 	Product Sourcing from Suppliers
 	Upstream Logistics
-###### Distribution Network
+###### 3. Distribution Network
 	Downstream Logistics
-###### Inventory Management
+###### 4. Inventory Management
 	How many?
 	When?
 	Where?
-###### Profit Optimization
+###### 5. Profit Optimization
 	Variables
 	Cost of Lost Sale
 	Cost of Holding Inventory
